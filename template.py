@@ -1,10 +1,15 @@
 import os
 from pathlib import Path
 
+
+package_name = 'mongodb_connect'
+
 list_of_files = [
-    '.github/workflows/.gitkeep',# this folder for entire configuration of CI/CD pipeline
+    '.github/workflows/ci.yaml',# this folder for entire configuration of CI/CD pipeline
      # git keep for to push empty folder over the github
     'src/__init__.py',
+    f'src/{package_name}/__init__.py',
+    f'src/{package_name}/mongo_crud.py',
     'src/components/__init__.py',
     'src/components/data_ingestion.py',
     'src/components/data_transformation.py',
@@ -18,10 +23,11 @@ list_of_files = [
     'src/logger/logging.py',
     'src/exception/exception.py',
     'tests/unit/__init__.py',
+    'tests/unit/unit.py',
     'tests/integration/__init__.py',
     'init_setup.sh',
-    'requirements.txt',
-    'requirements_dev.txt',
+    'requirements.txt', # production
+    'requirements_dev.txt', 
     'setup.py',
     'setup.cfg',
     'pyproject.toml',
