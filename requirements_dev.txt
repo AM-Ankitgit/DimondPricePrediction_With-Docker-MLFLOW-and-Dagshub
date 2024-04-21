@@ -1,0 +1,16 @@
+# this requirement for the local devlopement
+
+pymongo
+pymongo[srv] # cloud of MongoDB
+dnspython # for MongoDB (for DNS server)
+numpy 
+pandas 
+ensure
+pytest # test  the different test-cases(for unit and integration testing)
+
+
+-e . # editable
+tox==3.35.1
+black==22.8.0
+flask8==5.0.4
+mypy==0.971
