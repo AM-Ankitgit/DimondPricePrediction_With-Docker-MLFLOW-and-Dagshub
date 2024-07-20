@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/738e417a7c34436985547c786713a1d7/artifacts
+end_time: 1721470731883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 738e417a7c34436985547c786713a1d7
+run_name: resilient-chimp-727
+run_uuid: 738e417a7c34436985547c786713a1d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721470731852
+status: 3
+tags: []
+user_id: BW_ML_1

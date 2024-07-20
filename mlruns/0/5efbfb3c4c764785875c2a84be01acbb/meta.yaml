@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/5efbfb3c4c764785875c2a84be01acbb/artifacts
+end_time: 1721470889581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5efbfb3c4c764785875c2a84be01acbb
+run_name: merciful-goat-429
+run_uuid: 5efbfb3c4c764785875c2a84be01acbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721470889543
+status: 3
+tags: []
+user_id: BW_ML_1

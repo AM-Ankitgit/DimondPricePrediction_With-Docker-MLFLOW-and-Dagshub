@@ -1,16 +1,37 @@
-# this requirement for the local devlopement
+# # this requirement for the local devlopement
 
-pymongo
-pymongo[srv] # cloud of MongoDB
-dnspython # for MongoDB (for DNS server)
-numpy 
-pandas 
-ensure
-pytest # test  the different test-cases(for unit and integration testing)
+# pymongo
+# pymongo[srv] # cloud of MongoDB
+# dnspython # for MongoDB (for DNS server)
+# numpy 
+# pandas 
+# ensure
+# pytest # test  the different test-cases(for unit and integration testing)
 
 
--e . # editable
-tox==3.35.1
+# -e .   #editable mode" refers to a mode of installation where a package is installed in such a way that any changes made to the source code in its directory are immediately reflected in the installed package without the need for reinstallation.
+# tox
+# black
+# # flask8==5.0.4
+# mypy==0.971
+
+
+pandas
+scikit-learn
+numpy
+seaborn 
+flask
+mlflow==2.2.2
+dvc
+ipykernel
+xgboost
+
+# dev requirements -
+
+pytest==7.1.3
+tox==3.25.1
 black==22.8.0
-flask8==5.0.4
+flake8==5.0.4
 mypy==0.971
+
+-e . # to run this we need the setup file

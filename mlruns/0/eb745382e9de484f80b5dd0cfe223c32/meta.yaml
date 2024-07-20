@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/eb745382e9de484f80b5dd0cfe223c32/artifacts
+end_time: 1721470571136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb745382e9de484f80b5dd0cfe223c32
+run_name: angry-bass-97
+run_uuid: eb745382e9de484f80b5dd0cfe223c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721470571102
+status: 3
+tags: []
+user_id: BW_ML_1

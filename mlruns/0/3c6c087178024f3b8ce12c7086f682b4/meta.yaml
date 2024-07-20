@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/3c6c087178024f3b8ce12c7086f682b4/artifacts
+end_time: 1721470710049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c6c087178024f3b8ce12c7086f682b4
+run_name: bittersweet-lynx-705
+run_uuid: 3c6c087178024f3b8ce12c7086f682b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721470710017
+status: 4
+tags: []
+user_id: BW_ML_1

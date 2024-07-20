@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/65e1cf3ac0eb420bb2bc0b26ce0f4204/artifacts
+end_time: 1721470535050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65e1cf3ac0eb420bb2bc0b26ce0f4204
+run_name: masked-lamb-479
+run_uuid: 65e1cf3ac0eb420bb2bc0b26ce0f4204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721470535004
+status: 4
+tags: []
+user_id: BW_ML_1

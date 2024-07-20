@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/425931fc15314326a89d4f6bec8424be/artifacts
+end_time: 1721470706014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 425931fc15314326a89d4f6bec8424be
+run_name: shivering-ray-824
+run_uuid: 425931fc15314326a89d4f6bec8424be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721470705980
+status: 4
+tags: []
+user_id: BW_ML_1

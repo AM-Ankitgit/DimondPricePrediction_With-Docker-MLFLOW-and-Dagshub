@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/f70b22c88f71441488b5df3b1d2de8f7/artifacts
+end_time: 1721470758353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70b22c88f71441488b5df3b1d2de8f7
+run_name: treasured-seal-744
+run_uuid: f70b22c88f71441488b5df3b1d2de8f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721470758317
+status: 3
+tags: []
+user_id: BW_ML_1
