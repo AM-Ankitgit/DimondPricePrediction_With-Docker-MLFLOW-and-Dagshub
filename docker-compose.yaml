@@ -1,0 +1,19 @@
+version: "3"
+services:
+  airflow:
+    build:
+      context: ./
+      dockerfile: Dockerfile.airflow
+    image: airflowimage
+    container_name: diamond-prediction-airflow
+    ports:
+      - "8080:8080"
+    
+  flaskapp:
+    build:
+      context: ./
+      dockerfile: Dockerfile.flask
+    image: flaskimage
+    container_name: diamond-prediction-flask
+    ports:
+      - "5001:5001"

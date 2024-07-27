@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/c54cfccc2c724135a3f6892e261d5660/artifacts
+end_time: 1721552935984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c54cfccc2c724135a3f6892e261d5660
+run_name: inquisitive-deer-776
+run_uuid: c54cfccc2c724135a3f6892e261d5660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721552930545
+status: 3
+tags: []
+user_id: BW_ML_1

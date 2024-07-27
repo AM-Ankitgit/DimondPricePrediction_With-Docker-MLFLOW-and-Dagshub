@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/70134d4945d4490c8d9c6fdc502a6f33/artifacts
+end_time: 1721486088427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70134d4945d4490c8d9c6fdc502a6f33
+run_name: brawny-bear-695
+run_uuid: 70134d4945d4490c8d9c6fdc502a6f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721486088392
+status: 4
+tags: []
+user_id: BW_ML_1

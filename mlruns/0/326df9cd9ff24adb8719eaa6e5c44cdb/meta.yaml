@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/326df9cd9ff24adb8719eaa6e5c44cdb/artifacts
+end_time: 1721553610427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 326df9cd9ff24adb8719eaa6e5c44cdb
+run_name: calm-grouse-534
+run_uuid: 326df9cd9ff24adb8719eaa6e5c44cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721553607168
+status: 3
+tags: []
+user_id: BW_ML_1

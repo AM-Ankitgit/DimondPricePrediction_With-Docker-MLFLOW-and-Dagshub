@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/51ba7b1f57e04733b2b8a0062dec5a63/artifacts
+end_time: 1721553691579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51ba7b1f57e04733b2b8a0062dec5a63
+run_name: stylish-pug-659
+run_uuid: 51ba7b1f57e04733b2b8a0062dec5a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721553686949
+status: 3
+tags: []
+user_id: BW_ML_1

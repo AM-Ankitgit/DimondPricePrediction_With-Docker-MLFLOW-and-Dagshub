@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/cbf3ba2c20054de981d5740888067427/artifacts
+end_time: 1721486241130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbf3ba2c20054de981d5740888067427
+run_name: handsome-snipe-243
+run_uuid: cbf3ba2c20054de981d5740888067427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721486241098
+status: 3
+tags: []
+user_id: BW_ML_1

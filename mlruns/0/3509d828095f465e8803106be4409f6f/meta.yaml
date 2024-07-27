@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/MLOPS/mlruns/0/3509d828095f465e8803106be4409f6f/artifacts
+end_time: 1721553762541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3509d828095f465e8803106be4409f6f
+run_name: bright-sloth-653
+run_uuid: 3509d828095f465e8803106be4409f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721553758919
+status: 3
+tags: []
+user_id: BW_ML_1
