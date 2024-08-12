@@ -50,4 +50,4 @@ class DataIngestion:
             raise CustomException(e,sys)
     
 
-
+object_= DataIngestion()
